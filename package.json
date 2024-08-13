@@ -10,6 +10,7 @@
   },
   "private": true,
   "dependencies": {
+    "bootstrap": "file:../Angular-Module/bootstrap-4.6.2.tgz",
     "@angular/animations": "^18.1.0",
     "@angular/common": "^18.1.0",
     "@angular/compiler": "^18.1.0",
